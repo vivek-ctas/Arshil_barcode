@@ -13,6 +13,6 @@ export default defineConfig({
     server: { entry: "server" },
   },
   server: {
-    preset: 'vercel'
+    preset: "vercel",
   },
 });
